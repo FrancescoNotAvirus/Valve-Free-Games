@@ -17,9 +17,9 @@ Source: https://down-cs.su/
 
 # Half Life Mods
 
-|Game|Game Engine|Download|
-|----|-----------|--------|
-|Garry's Mod|Source Engine|[Download](https://down-cs.su/Download-Garrys-Mod).|
+|Game|Game Engine|Download|Security
+|----|-----------|--------|-------|
+|Garry's Mod|Source Engine|[Download](https://down-cs.su/Download-Garrys-Mod).|UNSAFE|
 
 # Counter Strike
 
