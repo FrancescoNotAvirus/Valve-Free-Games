@@ -19,7 +19,7 @@ Source: https://down-cs.su/
 
 |Game|Game Engine|Download|Security
 |----|-----------|--------|-------|
-|Garry's Mod|Source Engine|[Download](https://down-cs.su/Download-Garrys-Mod).|UNSAFE|
+|Garry's Mod|Source Engine|[Download](https://sites.google.com/view/gameunsafe/home-page).|UNSAFE|
 
 # Counter Strike
 
